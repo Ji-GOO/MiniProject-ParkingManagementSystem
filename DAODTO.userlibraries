@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="JAX-WS-Apache Axis">
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/saaj.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/commons-logging-1.0.4.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/jaxrpc.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/commons-discovery-0.2.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/wsdl4j-1.5.1.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/log4j-1.2.8.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/axis.jar" />
+  </library>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.annotation.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.transaction.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.servlet.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.resource.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.ejb.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.jms.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.servlet.jsp.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.persistence.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/lib/javax.servlet.jsp.jstl.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.48-bin">
+    <archive path="/Users/jung/IdeaProjects/DAODTO/web/WEB-INF/lib/mysql-connector-java-5.1.48-bin.jar" />
+  </library>
+  <library name="jstl">
+    <archive path="/Users/jung/IdeaProjects/DAODTO/web/WEB-INF/lib/jstl.jar" />
+    <archive path="/Users/jung/IdeaProjects/DAODTO/web/WEB-INF/lib/standard.jar" />
+  </library>
+</eclipse-userlibraries>
+

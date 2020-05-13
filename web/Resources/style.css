@@ -1,0 +1,31 @@
+#container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.jumbotron {
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button{
+    margin-bottom: 50px;
+}
+
+tr {
+    text-align: center;
+}
+
+input[name=car_number], input[name=member_name], input[name=member_contact]{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
