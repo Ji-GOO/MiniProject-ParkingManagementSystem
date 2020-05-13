@@ -36,8 +36,10 @@
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-# *.iml
+*.iml
 # *.ipr
+*.eml
+*.userlibraries
 
 # CMake
 cmake-build-*/
