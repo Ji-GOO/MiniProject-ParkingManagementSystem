@@ -39,3 +39,6 @@ UML 다이어그램
 DB 설계
 
 <img src="https://user-images.githubusercontent.com/63104048/82642385-c5e63c00-9c48-11ea-8b0a-9ab9782d530d.png" width="65%">
+
+# 실행 화면
+<img src="https://user-images.githubusercontent.com/63104048/87003681-0bf65f80-c1f7-11ea-8dd8-2c3c92a7d4ce.png" width="65%">
