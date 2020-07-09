@@ -5,7 +5,7 @@
 
 # 설계
 UML 설계
-<img src="https://user-images.githubusercontent.com/63104048/82642548-0e055e80-9c49-11ea-9a54-8a08d4a60de1.png" width="60%">
+<img src="https://user-images.githubusercontent.com/63104048/82642548-0e055e80-9c49-11ea-9a54-8a08d4a60de1.png" width="65%">
 
 DB 설계
 
