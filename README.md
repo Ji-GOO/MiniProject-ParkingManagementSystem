@@ -1,7 +1,18 @@
 # 미니 프로젝트-주차관리시스템
 
 # 주제
-미니 주차 관리 시스템 
+차량 번호를 통해 입차와 출차, 정기권 및 정산을 할 수 있는 주차 관리 사이트
+
+# 개발 인원
+총 1명. (백엔드 + 프론트엔드)
+
+# 기술 스택
+- Back-end : Java 11, Servlet, Tomcat 8.5, MySQL, JDBC, JSP
+- Front-end : HTML, CSS, JavaScript
+- 개발 툴 : Intellij IDEA
+
+# 프로젝트 기간
+2020년 2월 26일 ~ 3월 6일 (2주)
 
 # 설계
 UML 다이어그램
