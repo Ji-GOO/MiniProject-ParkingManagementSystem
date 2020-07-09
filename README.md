@@ -36,7 +36,7 @@ UML 다이어그램
 
 <img src="https://user-images.githubusercontent.com/63104048/82642548-0e055e80-9c49-11ea-9a54-8a08d4a60de1.png" width="50%">
 
-DB 설계
+데이터베이스
 
 <img src="https://user-images.githubusercontent.com/63104048/82642385-c5e63c00-9c48-11ea-8b0a-9ab9782d530d.png" width="50%">
 
