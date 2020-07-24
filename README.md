@@ -8,7 +8,7 @@
 
 ## 기술 스택
 - Back-end : Java 11, Servlet, Tomcat 8.5, MySQL, JDBC, JSP
-- Front-end : HTML, CSS, JavaScript
+- Front-end : HTML, CSS, Bootstrap
 - 개발 툴 : Intellij IDEA
 
 ## 프로젝트 기간
