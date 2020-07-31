@@ -12,7 +12,7 @@
 ## 기술 스택
 - Back-end : Java 11, Servlet(MVC1 패턴), Tomcat 8.5, MySQL, JDBC, JSP
 - Front-end : HTML, CSS, Bootstrap
-- 개발 툴 : Intellij IDEA
+- Tool : Intellij IDEA
 
 ## 프로젝트 기간
 2020년 2월 26일 ~ 3월 6일 (2주)
