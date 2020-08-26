@@ -10,7 +10,7 @@
 1명 (백엔드 + 프론트엔드)
 
 ## 기술 스택
-- Back-end : Java 11, Servlet(MVC1 패턴), Tomcat 8.5, MySQL, JDBC, JSP
+- Back-end : Java 11, Servlet, Tomcat 8.5, MySQL, JDBC, JSP
 - Front-end : HTML, CSS, Bootstrap
 - Tool : Intellij IDEA
 
